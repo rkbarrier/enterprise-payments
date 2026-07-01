@@ -111,3 +111,10 @@ Overall payment operations remain healthy with strong processing accuracy, high 
 * Executive Communication
 * Data Visualization
 
+---
+
+# Executive Dashboard Mockup
+
+The illustration below demonstrates how enterprise payment KPIs and operational metrics can be presented in an executive dashboard.
+
+![Executive Payments Dashboard](images/Executive-Payments-Dashboard.png)
