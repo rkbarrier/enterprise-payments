@@ -33,3 +33,13 @@ The examples demonstrate business analysis, workflow documentation, operational 
 ---
 
 *All examples are original portfolio materials and do not contain proprietary employer information.*
+
+enterprise-payments/
+│
+├── README.md
+├── Enterprise-Payments-Overview.md
+├── ACH-Payment-Lifecycle.md
+├── Wire-Transfer-Lifecycle.md
+├── Executive-Payments-Dashboard.md
+└── images/
+    └── Executive-Payments-Dashboard.png
