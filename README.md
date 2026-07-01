@@ -44,7 +44,7 @@ enterprise-payments/
 ├── ISO-20022-Overview.md
 ├── Payment-Risk-Assessment.md
 ├── Executive-Payments-Dashboard.md
-Enterprise_Payments_Modernization_Executive_Business_Case.pptx
+├── Enterprise_Payments_Modernization_Executive_Business_Case.pptx
 ├── Technology_Resiliency_Dashboard_Data.xlsx
 ├── dashboard-kpis.csv
 └── images/
